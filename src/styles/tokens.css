@@ -1,0 +1,19 @@
+:root {
+  --ivory: #fff8f3;
+  --paper: #fffdfb;
+  --blush: #f9d9d3;
+  --blush-deep: #f1b9b2;
+  --coral: #d9777f;
+  --coral-ink: #a8434f;
+  --ink: #4a2f33;
+  --ink-soft: #7d5c60;
+  --line: #efd9d3;
+
+  --font-display: 'Fraunces Variable', Georgia, 'Times New Roman', serif;
+  --font-body: 'Be Vietnam Pro', system-ui, -apple-system, 'Segoe UI', sans-serif;
+
+  --space-1: .5rem; --space-2: 1rem; --space-3: 1.5rem; --space-4: 2.5rem; --space-5: 4rem;
+  --radius-s: 10px; --radius-m: 18px;
+  --shadow-soft: 0 10px 30px -12px rgba(168, 67, 79, .28);
+  --ease: cubic-bezier(.22, .8, .3, 1);
+}
